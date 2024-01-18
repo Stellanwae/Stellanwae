@@ -13,4 +13,5 @@
 
 
 ### Languages and Tools:
-icons/aftereffects/aftereffects-plain.svg
+![image](https://github.com/Stellanwae/Stellanwae/assets/99267699/05f7ffbe-4dc0-4ad2-ab17-0c29281761a3)
+
