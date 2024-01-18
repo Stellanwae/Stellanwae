@@ -25,4 +25,8 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="vim" width="40" height="40" style="max-width: 100%;">
 <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/1895ddb7-6ee7-41a1-9626-fd868ea26101" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" height="40" width="40" style="max-width: 100%;">
+<img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/1ef6390f-1a17-4c46-874c-28182db9e6c7" title="nodedotjs" width="40" height="40" style="max-width: 100%;">
+		    <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/64ac4680-2ab4-4d41-8342-85591c46370f" title="express" width="40" height="40" style="max-width: 100%;">
+		    <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/8f625ae9-21a3-40e1-84ab-0b70943ee3d7" title="mongodb" width="40" height="40" style="max-width: 100%;">
+		    <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/dbe9269e-9a35-4cf1-a54a-29a0ef0fb84f" title="reactos" width="40" height="40" style="max-width: 100%;">
 </p>
