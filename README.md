@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on building interesting frontend projects
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on many Google Open Source Projects
-- 🤔 I’m looking for help with finding a paid internship
-- 📫 How to reach me: Stella Nwae (on Twitter), stellanic2011@gmail on email
+- 🤔 I’m looking for help with finding more experience in tech
+- 📫 How to reach me: Stella Nwae (on Twitter), stellanwae@gmail on email
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: The first computer bug was an actual insect 😂
 
