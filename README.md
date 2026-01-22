@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on building interesting frontend projects
+- 🔭 I’m currently building a rental house finder application
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on many Google Open Source Projects
-- 🤔 I’m looking for ways to solve a problem with code
-- 📫 How to reach me: stellanwae@gmail on email
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for a remote opportunity
+- 📫 How to reach me: stellanwae@gmail.com on email
 - 😉 I'm also a virtual assistant, if you need help, reach out to me
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: The first computer bug was an actual insect 😂
