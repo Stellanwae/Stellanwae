@@ -31,3 +31,5 @@
 		    <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/8f625ae9-21a3-40e1-84ab-0b70943ee3d7" title="mongodb" width="40" height="40" style="max-width: 100%;">
 		    <img src="https://github.com/Stellanwae/Stellanwae/assets/99267699/dbe9269e-9a35-4cf1-a54a-29a0ef0fb84f" title="reactos" width="40" height="40" style="max-width: 100%;">
 </p>
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Stellanwae)
